@@ -21,7 +21,7 @@ console.log(ev%2==0 ? "Even" : "Odd");
 
 // checks if a user is an adult (18+) or a minor.
 
-// var checkAge = prompt("Enter age to Check Eligibility : ");------=--------=--------
+var checkAge = prompt("Enter age to Check Eligibility : ");
 
 console.log(checkAge>=18 ? "Eligible" : "Not Eligible");
 
